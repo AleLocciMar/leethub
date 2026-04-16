@@ -1,6 +1,6 @@
 # 🚀 LeetCode Solutions - Alexandre Locci Martins
 
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/AleLocci/))
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/AleLocci/)
 [![Language-C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B)](./C++)
 [![Language-Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python)](./Python)
 

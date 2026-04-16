@@ -1,6 +1,6 @@
 # 🚀 LeetCode Solutions - Alexandre Locci Martins
 
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/SEU_USUARIO_AQUI/)
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/AleLocci/))
 [![Language-C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B)](./C++)
 [![Language-Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python)](./Python)
 
@@ -33,4 +33,4 @@ O repositório está estruturado de forma a refletir a evolução nas diferentes
 *Este repositório serve como um portfólio prático complementar ao meu percurso académico e profissional.*
 
 ---
-> **Nota:** Substitua `SEU_USUARIO_AQUI` no topo pelo seu link real do perfil LeetCode.
+
